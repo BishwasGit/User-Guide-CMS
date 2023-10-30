@@ -13,6 +13,7 @@
                                             <h2 class="h2"><a href="{{ route('index.contents') }}"
                                                     class="text-white">TITLE</a></h2>
                                         </li>
+                                        //dynamically generate the title 
                                         @php
                                             $i = 1;
                                         @endphp
